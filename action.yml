@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Feed Generator Utility"
 author: "Matt Price"
 description: "Generates a feed for a podscast from a YAML file"
 runs:
